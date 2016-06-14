@@ -165,6 +165,7 @@ class WC_API extends WC_Legacy_API {
 		include_once( 'api/class-wc-rest-reports-controller.php' );
 		include_once( 'api/class-wc-rest-settings-controller.php' );
 		include_once( 'api/class-wc-rest-settings-options-controller.php' );
+		include_once( 'api/class-wc-rest-shipping-zones-controller.php' );
 		include_once( 'api/class-wc-rest-tax-classes-controller.php' );
 		include_once( 'api/class-wc-rest-taxes-controller.php' );
 		include_once( 'api/class-wc-rest-webhook-deliveries.php' );
